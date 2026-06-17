@@ -1,3 +1,4 @@
 ||internetcheckrouter.netgear.com^
 ||227.1.168.192.in-addr.arpa^
+||*amazonaws.com^
 # Blocked because WiFi Router appears to be trying to connect to this site
